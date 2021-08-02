@@ -20,7 +20,7 @@ Design and implement a smoke detection program using NodeMCU to detect smoke usi
 
 Purpose & Requirements Specification
 1) Purpose
-A smoke detection system in office environment, using NodeMCU.
+- A smoke detection system in office environment, using NodeMCU.
 
 2) Behavior
 The smoke detection system works in both manual and automatic mode. Manual mode is when the worker controls the on and off the LEDs which act as opening and closing of the ventilation fan using app. Automatic mode is when the system detects the smoke is higher and the buzzer goes on until the smoke is cleared. Other than that, worker will also get alert notification in their mobile if there is smoke detected.

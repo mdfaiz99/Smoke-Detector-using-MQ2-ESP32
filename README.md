@@ -1,11 +1,11 @@
 This project is to develop a smoke detection system in office environment, using NodeMCU. The main objective in this experiment is to:
-• Alert office workers if there is smoke detected which possibly due to fire
-• Monitoring and controlling ventilation fan from mobile application in case there is smoke
+a) Alert office workers if there is smoke detected which possibly due to fire
+b) Monitoring and controlling ventilation fan from mobile application in case there is smoke
 
 EQUIPMENTS
-• Personal Computer/Notebook
-• NodeMCU
-• MQ2 smoke sensor
+1) Personal Computer/Notebook
+2) NodeMCU
+3) MQ2 smoke sensor
 • DHT11 temperature and humidity sensor
 • 2 x LED (R1 and G1)
 • Buzzer (B1)
